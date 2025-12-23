@@ -1,1 +1,11 @@
 # Learn-in-public-Fabio
+- Lo que no te toca no se toca
+- No se trabaja en main
+- No se trabaja en develop
+- Siempre hacer push a tu rama de trabajo
+- Los commits y las ramas deben tener nombres descriptivos
+- Antes de un push, se hace un pull de develop
+- Antes de empezar a trabajar, se hace un pull de develop
+- Al crear ramas nuevas, hacer un push para crearlo en Github
+- Cuando se incluyan cambios en develop, hacer un pull
+- Si hay conflicto en el código, usar el editor interno de Github (es más sencillo, tendrás menos problemas).
